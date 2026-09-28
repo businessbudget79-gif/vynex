@@ -1,0 +1,4 @@
+User-agent: *
+ALLow: /
+
+sitemap: https://businessbudget79=gif.github.io/vynex/sitemap.xml
